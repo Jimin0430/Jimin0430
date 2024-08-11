@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimin0430&layout=compact)
 -->
 
+<!--
+**내 깃허브 스탯
 <a href="https://github.com/Jimin0430"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Jimin0430&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+-->
