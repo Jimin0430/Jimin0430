@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
+** 내가 써온 언어 비율
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimin0430&layout=compact)
+-->
