@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ** 내가 써온 언어 비율
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimin0430&layout=compact)
 -->
+
+<a href="https://github.com/Jimin0430"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Jimin0430&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
