@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%23555555&title_bg=%23323232&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h2 align="center"> 🎨 Stack <br> </p>
+<br></p>
 
  <h3 align="center"> Web Frontend
 
@@ -57,7 +58,7 @@ Here are some ideas to get you started:
 <br><br></p>
 
 
-<h2 align="center"> 🧮Algorithm <br> <\p>
+<h2 align="center"> 💡 Algorithm <br> <\p>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tangbole)](https://solved.ac/tangbole/)
 
@@ -66,8 +67,6 @@ Here are some ideas to get you started:
 ** 내가 써온 언어 비율
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimin0430&layout=compact)
 -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={tangbole})](https://solved.ac/{handle})
 <!--
 **내 깃허브 스탯
 <a href="https://github.com/Jimin0430"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Jimin0430&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
