@@ -1,5 +1,5 @@
 <br>
-<h3 align="center"> 안녕하세요👋🏻 프론트엔드 개발자 최지민입니다 ☺︎☻</h3>
+<h3 align="center"> 안녕하세요 👋🏻 저는 최지민입니다 ☺︎☻</h3>
 
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
@@ -103,4 +103,8 @@
   <img src="http://mazandi.herokuapp.com/api?handle=tangbole&theme=warm" alt="mazandi profile"/>
 </div>
 
+<br>
+<br>
+<br>
+<br>
 
