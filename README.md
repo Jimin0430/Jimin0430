@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%23555555&title_bg=%23323232&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h2 align="center"> 🎨 Stack <br> </p>
-<br></p>
+<h2 align="center">🎨Stack <br> </p>
 
  <h3 align="center"> Web Frontend
 
@@ -58,7 +57,7 @@ Here are some ideas to get you started:
 <br><br></p>
 
 
-<h2 align="center"> 💡 Algorithm <br> 
+<h2 align="center">💡Algorithm <br></p>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tangbole)](https://solved.ac/tangbole/)
 
