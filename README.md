@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <br><br></p>
 
 
-<h2 align="center"> 💡 Algorithm <br> <\p>
+<h2 align="center"> 💡 Algorithm <br> 
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tangbole)](https://solved.ac/tangbole/)
 
