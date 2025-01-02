@@ -99,7 +99,7 @@
 [![AWS-SAA Certified Badge](https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/cea8127c-56f2-477b-8f3f-b2e8376f9512/public_url)
 </div>
 
-<br><br><br><br>
+<br><br><br>
 <h1 align="center">💡 Algorithm </h1>
 <br>
 
