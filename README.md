@@ -82,7 +82,7 @@
 
 <h4 align="center"> Infra
 <br><br>
-<img alt="amazonwebservices" src ="https://img.shields.io/badge/amazonwebservices-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img alt="amazonwebservices" src ="https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 
