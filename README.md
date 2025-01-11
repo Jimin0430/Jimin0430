@@ -65,7 +65,7 @@
 <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="typescript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-<img alt="nextdotjs" src ="https://img.shields.io/badge/nextdotjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img alt="nextdotjs" src ="https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="tailwindcss" src ="https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img alt="recoil" src ="https://img.shields.io/badge/recoil-3578E5.svg?&style=for-the-badge&logo=recoil&logoColor=white"/>
 
@@ -77,7 +77,7 @@
 <h4 align="center"> Backend
 <br><br>
 <img alt="flask" src ="https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="nodedotjs" src ="https://img.shields.io/badge/nodedotjs-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt="nodedotjs" src ="https://img.shields.io/badge/node.js-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 
 <h4 align="center"> Infra
@@ -96,7 +96,7 @@
 <h1 align="center">🪪 Certificate </h1>
 <div align="center">
 
-[![AWS-SAA Certified Badge](https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/cea8127c-56f2-477b-8f3f-b2e8376f9512/public_url)
+[![AWS-SAA Certified Badge](https://images.credly.com/size/180x180/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/cea8127c-56f2-477b-8f3f-b2e8376f9512/public_url)
 </div>
 
 <br><br><br>
