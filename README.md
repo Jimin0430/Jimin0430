@@ -107,7 +107,6 @@
   <a href="https://solved.ac/tangbole">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tangbole" alt="Solved.ac Profile Badge"/>
   </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=tangbole&theme=warm" alt="mazandi profile"/>
 </div>
 
 
