@@ -1,5 +1,5 @@
 <br>
-<h3 align="center"> 안녕하세요 👋🏻 저는 최지민입니다 ☺︎☻</h3>
+<h3 align="center"> 안녕하세요 👋🏻 만나서 반갑습니다 ☺︎☻</h3>
 
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
