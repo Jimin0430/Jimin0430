@@ -3,10 +3,10 @@
 
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%23B0E0E6&title_bg=%23A6D4FF&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false" alt="Hits Badge" />
+<img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small" alt="hits" />
   </a>
   <a href="https://codingcoco.tistory.com/">
-    <img src="https://img.shields.io/badge/My tech blog-FF8246?style=flat-square&logo=GitHub Sponsors&logoColor=white" alt="My Blog Badge" />
+    <img src="https://img.shields.io/badge/My%20tech%20blog-FF8246?style=flat-square&logo=githubsponsors&logoColor=white" alt="My Blog Badge" />
   </a>
 </div>
 <br><br><br>
