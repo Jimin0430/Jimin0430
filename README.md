@@ -113,9 +113,11 @@
 <br>
 <br>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Jimin0430"/>
-</a>
+<div align="center"> 
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/Jimin0430"/>
+  </a>
+</div>
 <br>
 <br>
 
