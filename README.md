@@ -114,7 +114,7 @@
 <br>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Jimin0430?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/Jimin0430"/>
 </a>
 <br>
 <br>
