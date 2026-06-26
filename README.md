@@ -103,7 +103,6 @@
 
 <br>
 <h2>Activity</h2>
-<br>
 <table>
   <tr>
     <th>활동 기간</th>
