@@ -1,8 +1,7 @@
 <br>
-<h3 align="center"> 안녕하세요 👋🏻 만나서 반갑습니다 ☺︎☻</h3>
+<h3> 안녕하세요 👋🏻 만나서 반갑습니다 ☺︎☻</h3>
 
-
-<div align="center">
+<div>
   <a href="https://hits.seeyoufarm.com">
 <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small" alt="hits" />
   </a>
@@ -11,34 +10,29 @@
   </a>
 </div>
 
-<br><br><br>
-<h1 align="center">💼 Experience</h1>
+<br>
+<h2>Experience</h2>
 
 <table width="100%">
-  <tr>
-    <td>
-      <h3>Peak — 소상공인 예약·상담·리뷰 관리 서비스</h3>
-      <p>React Native iOS 앱 및 Next.js 웹 프론트엔드 개발</p>
-      <p>
-        <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      </p>
-      <p>🏆 2025 TIPS 선정</p>
-      <a href="https://home.pkme.io/">→ 서비스 보기</a>
-      <p><sub>2025.03 ~ 2025.07 · 크래쉬컴퍼니 Software Engineer 인턴</sub></p>
-    </td>
-  </tr>
+  <h3>Peak — 소상공인 예약·상담·리뷰 관리 서비스</h3>
+  <p>React Native iOS 앱 및 Next.js 웹 프론트엔드 개발 인턴</p>
+  <p>
+    <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  </p>
+  <p>🏆 2025 TIPS 선정</p>
+  <a href="https://home.pkme.io/">→ 서비스 보기</a>
+  <p><sub>2025.03 ~ 2025.07 · 크래쉬컴퍼니 Software Engineer 인턴</sub></p>
 </table>
 
 <br>
-
-<h1 align="center">🚀 Projects</h1>
+<h2>Projects</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3>AiDeep — AI 기반 팀 지식 관리 서비스</h3>
+      <h3>AiDeep — AI 기반 팀 회의 관리 서비스</h3>
       <p>회의를 실시간으로 트리 형태로 구조화하고 회의록을 자동 완성해주는 팀 회의 도구 웹 프론트 개발 및 디자인</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -107,10 +101,9 @@
   </tr>
 </table>
 
-<br><br><br>
-<h1 align="center">🌴 Activity  </h1>
 <br>
-<div align="center">
+<h2>Activity</h2>
+<br>
 <table>
   <tr>
     <th>활동 기간</th>
@@ -128,11 +121,11 @@
     <td>2026/01 - 2026/06</td>
     <td>3D Gaussian Splatting 기반 모바일 실시간 렌더링 연구 및 KSCI 2026 논문 작성</td>
   </tr>
- <tr>
+  <tr>
     <td>2025/09 - 2025/12</td>
     <td>인하대학교 2025 아랩 엑셀러레이팅 창업 지원 프로그램 수료</td>
   </tr>
- <tr>
+  <tr>
     <td>2024/08</td>
     <td>AWS 협력 프로젝트 교육 수료</td>
   </tr>
@@ -169,74 +162,55 @@
     <td>2022 한국관광공사x카카오 관광데이터 활용 공모전 장려상</td>
   </tr>
 </table>
-</div>
 
-<br><br><br>
-<h1 align="center">🎨 Stack </h1>
 <br>
- <h4 align="center"> Web Frontend
+<h2>Stack</h2>
+<h4> Web Frontend
 <br><br>
 <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="typescript" src ="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="nextdotjs" src ="https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
-<h4 align="center"> App Development  
+<h4> App Development
 <br><br>
 <img alt="reactnative" src ="https://img.shields.io/badge/reactnative-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="expo" src ="https://img.shields.io/badge/expo-000000.svg?&style=for-the-badge&logo=expo&logoColor=white"/>
 
-<h4 align="center"> Graphics Development
+<h4> Graphics Development
 <br><br>
 <img alt="unity" src="https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 <img alt="hlsl" src="https://img.shields.io/badge/HLSL-5C2D91.svg?&style=for-the-badge&logo=microsoft&logoColor=white"/>
 
-<h4 align="center"> Backend
+<h4> Backend
 <br><br>
 <img alt="python" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="flask" src ="https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="nodedotjs" src ="https://img.shields.io/badge/node.js-5FA04E.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-
-<h4 align="center"> Infra
+<h4> Infra
 <br><br>
 <img alt="amazonwebservices" src ="https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
-
-<h4 align="center"> Hosting 
+<h4> Hosting
 <br><br>
 <img alt="vercel" src ="https://img.shields.io/badge/vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 
+<br><br>
 
-<br><br><br><br>
-
-<h1 align="center">🪪 Certificate </h1>
-<div align="center">
+<h2>Certificate</h2>
 
 [![AWS-SAA Certified Badge](https://images.credly.com/size/180x180/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/cea8127c-56f2-477b-8f3f-b2e8376f9512/public_url)
-</div>
-
-<br><br><br>
-<h1 align="center">💡 Algorithm </h1>
-<br>
-
-<div align="center">
-  <a href="https://solved.ac/tangbole">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tangbole" alt="Solved.ac Profile Badge"/>
-  </a>
-</div>
-
-<br><br><br>
 
 <br>
-<br>
+<h2>Algorithm</h2>
+<a href="https://solved.ac/tangbole">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tangbole" alt="Solved.ac Profile Badge"/>
+</a>
 
-<div align="center"> 
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/Jimin0430"/>
-  </a>
-</div>
-<br>
-<br>
+<br><br>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Jimin0430"/>
+</a>
