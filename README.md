@@ -119,7 +119,7 @@
   </tr>
   <tr>
     <td>2026/01 - 2026/06</td>
-    <td>3D Gaussian Splatting 기반 모바일 실시간 렌더링 연구 및 KSCI 2026 논문 작성</td>
+    <td>3D Gaussian Splatting 기반 모바일 실시간 렌더링 연구 및 논문 작성</td>
   </tr>
   <tr>
     <td>2025/09 - 2025/12</td>
