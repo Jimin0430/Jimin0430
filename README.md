@@ -33,8 +33,9 @@
   <tr>
     <td width="50%">
       <h3>AiDeep — AI 기반 팀 회의 관리 서비스</h3>
-      <p>회의를 실시간으로 트리 형태로 구조화하고 회의록을 자동 완성해주는 팀 회의 도구 웹 프론트 개발 및 디자인</p>
+      <p>회의를 실시간으로 트리 형태로 구조화하고 회의록을 자동 완성해주는 팀 회의 도구</p>
       <p>
+        <b>웹 프론트엔드 개발 리드 및 디자인</b><br>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       </p>
@@ -44,22 +45,22 @@
     </td>
     <td width="50%">
       <h3>모바일 실시간 3DGS 렌더링 프레임워크 — Gaussian Splatting 모바일 3D 렌더링 연구</h3>
-      <p>스마트폰 영상 → 서버 학습 → 모바일 실시간 렌더링 End-to-End 파이프라인 구축하여 iPhone 13에서 5.8MB 경량 모델로 30 FPS 실시간 렌더링 구현</p>
+      <p>스마트폰 영상을 서버에서 학습해 모바일에서 실시간 렌더링하는 End-to-End 파이프라인. iPhone 13에서 5.8MB 경량 모델로 30 FPS 렌더링 성능 실현</p>
       <p>
+        <b>서버 파이프라인 구축 및 모바일 렌더러 최적화</b><br>
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <p>📄 KSCI 2026 논문 게재</p>
-      <a href="링크">→ 논문 보기</a>
       <p><sub>2026.01 ~ 2026.06 · CGXR@INHA</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>VPSPACE — 팀원 모집 · 프로젝트 통합관리 서비스</h3>
-      <p>팀원 모집 및 프로젝트 관리 플랫폼 웹 프론트 개발 </p>
+      <p>팀원 모집 및 프로젝트 관리 플랫폼</p>
       <p>
+        <b>웹 프론트엔드 개발</b><br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       </p>
@@ -68,8 +69,9 @@
     </td>
     <td width="50%">
       <h3>IGRUS Bedrock Gallery — AI 이미지 합성 전시 서비스</h3>
-      <p>AWS Summit Seoul 응용 장래희망 전시 프로젝트로 AI 이미지 합성 aws 서버리스 아키텍처 설계 및 대형 스크린 화면 개발</p>
+      <p>AWS Summit Seoul 응용 장래희망 전시 프로젝트. AI 이미지 합성 기반</p>
       <p>
+        <b>서버리스 아키텍처 설계 및 대형 스크린 화면 개발</b><br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
       </p>
@@ -80,8 +82,9 @@
   <tr>
     <td width="50%">
       <h3>Canva Kizania — Canva 글로벌 앱</h3>
-      <p>Bedrock Gallery의 Canva Application 버전 Canva 웹 어플리케이션 전담 개발</p>
+      <p>Bedrock Gallery의 Canva Application 버전</p>
       <p>
+        <b>Canva 웹 어플리케이션 전담 개발</b><br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       </p>
@@ -90,8 +93,9 @@
     </td>
     <td width="50%">
       <h3>케어프렌즈 — 요양보호사 · 환자 매칭 서비스</h3>
-      <p>요양보호사·환자 1:1 매칭 크로스플랫폼 앱 기획·디자인·개발 전담</p>
+      <p>요양보호사·환자 1:1 매칭 크로스플랫폼 앱</p>
       <p>
+        <b>기획·디자인·개발 전담</b><br>
         <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       </p>
