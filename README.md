@@ -44,13 +44,13 @@
     </td>
     <td width="50%">
       <h3>모바일 실시간 3DGS 렌더링 프레임워크 — Gaussian Splatting 모바일 3D 렌더링 연구</h3>
-      <p>스마트폰 영상 → 서버 학습 → 모바일 실시간 렌더링 End-to-End 파이프라인 및 모바일 렌더러 최적화 구현</p>
+      <p>스마트폰 영상 → 서버 학습 → 모바일 실시간 렌더링 End-to-End 파이프라인 구축하여 iPhone 13에서 5.8MB 경량 모델로 30 FPS 실시간 렌더링 구현</p>
       <p>
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <p>📄 KSCI 2026 게재 · 📱 iPhone 13 · 30 FPS · 5.8MB</p>
+      <p>📄 KSCI 2026 논문 게재</p>
       <a href="링크">→ 논문 보기</a>
       <p><sub>2026.01 ~ 2026.06 · CGXR@INHA</sub></p>
     </td>
