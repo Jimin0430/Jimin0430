@@ -50,7 +50,7 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <p>📱 iPhone 13 · 30 FPS · 5.8MB</p>
+      <p>📄 KSCI 2026 게재 · 📱 iPhone 13 · 30 FPS · 5.8MB</p>
       <a href="링크">→ 논문 보기</a>
       <p><sub>2026.01 ~ 2026.06 · CGXR@INHA</sub></p>
     </td>
@@ -118,7 +118,7 @@
   </tr>
   <tr>
     <td>2026/01 - 2026/06</td>
-    <td>3D Gaussian Splatting 기반 모바일 실시간 렌더링 연구 및 논문 작성</td>
+    <td>3D Gaussian Splatting 기반 모바일 실시간 렌더링 연구 KSCI 2026 논문 게재</td>
   </tr>
   <tr>
     <td>2025/09 - 2025/12</td>
