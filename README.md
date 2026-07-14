@@ -53,6 +53,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
       <p>🏆 2026 한국컴퓨터정보학회(KSCI) 하계학술대회 우수논문상 수상</p>
+      <a href="https://www.youtube.com/watch?v=u6D9ijtYhwo">→ 발표영상 보기</a>
       <p><sub>2026.01 ~ 2026.06 · CGXR@INHA</sub></p>
     </td>
   </tr>
