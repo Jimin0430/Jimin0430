@@ -45,13 +45,14 @@
     </td>
     <td width="50%">
       <h3>모바일 실시간 3DGS 렌더링 프레임워크 — Gaussian Splatting 모바일 3D 렌더링 연구</h3>
-      <p>스마트폰 영상을 서버에서 학습해 모바일에서 실시간 렌더링하는 End-to-End 파이프라인. iPhone 13에서 5.8MB 경량 모델로 30 FPS 렌더링 성능 실현</p>
+      <p>스마트폰 영상을 서버에서 학습해 모바일에서 실시간 렌더링하는 End-to-End 파이프라인 프레임워크</p>
       <p>
         <b>서버 파이프라인 구축 및 모바일 렌더러 최적화</b><br>
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
+      <p>🏆 2026 한국컴퓨터정보학회(KSCI) 하계학술대회 우수논문상 수상</p>
       <p><sub>2026.01 ~ 2026.06 · CGXR@INHA</sub></p>
     </td>
   </tr>
@@ -121,8 +122,8 @@
     <td>전국민 AI 경진대회 AI Rookie 예선 진출</td>
   </tr>
   <tr>
-    <td>2026/01 - 2026/06</td>
-    <td>3D Gaussian Splatting 기반 모바일 실시간 렌더링 연구 KSCI 2026 논문 게재</td>
+    <td>2026/07</td>
+    <td>2026 한국컴퓨터정보학회(KSCI) 하계학술대회 논문 발표 · 우수논문상</td>
   </tr>
   <tr>
     <td>2025/09 - 2025/12</td>
